@@ -22,9 +22,7 @@ Two options are given to you. You can put your birthday date within the tags tar
 <script src="js/jquery.js"></script>
 <script src="js/ager.js"></script>
 <script>
-$(".ager").ager({
-  birth: "2005-04-23"
-});
+$(".ager").ager();
 </script>
 ```
 
