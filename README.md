@@ -11,4 +11,6 @@ Sample set of javascript codes
 
   - [clocker.js](https://github.com/jhechavarria/jscripts/tree/master/clocker)
 
-**Nodejs scripts**
+**Nodejs scripts/modules**
+
+  - [group-dispatcher](https://github.com/jhechavarria/jscripts/tree/master/group-dispatcher)

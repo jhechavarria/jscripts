@@ -1,0 +1,29 @@
+{
+  "name": "group-dispatcher",
+  "version": "0.0.1",
+  "description": "Module Node permettant de repartir les donnees d'un tableau dans des groupes de maniere equilibree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhechavarria/group-dispatcher.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "dispatch",
+    "javascript",
+    "number",
+    "array",
+    "group"
+  ],
+  "author": "Jessie Noel Hechavarria Villalon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhechavarria/group-dispatcher/issues"
+  },
+  "homepage": "https://github.com/jhechavarria/group-dispatcher#readme"
+}
