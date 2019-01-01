@@ -37,7 +37,7 @@ This argument is quite explicit, it defines how often the date and time will be 
 
 ### output_format
 
-This options helps to define precisely how the date and time will be displayed. It accepts a string as well as html combined with special characters representing parts of DateTime.
+This option helps to define precisely how the date and time will be displayed. It accepts a string as well as html combined with special characters representing parts of DateTime.
 
 ```js
  jQuery(function() {
