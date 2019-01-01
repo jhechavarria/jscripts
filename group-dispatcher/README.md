@@ -12,7 +12,7 @@ npm install git+https://github.com/jhechavarria/jscripts/tree/master/group-dispa
 ```
 ## Install manually
 
-1) Download zip file.
+1) Download files.
 2) Create a directory named **group-dispatcher** within the **node_modules** directory in your node project.
 3) Unzip the downloaded archive and put contents in the **group-dispatcher** directory.
 
