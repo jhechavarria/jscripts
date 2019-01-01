@@ -8,7 +8,7 @@ Node module that allows you to dispatch array data in smaller groups in a balanc
 Go to your project folder through your terminal and type the following command:
 
 ```sh
-npm install git+https://github.com/jhechavarria/group-dispatcher.git
+npm install git+https://github.com/jhechavarria/jscripts/tree/master/group-dispatcher.git
 ```
 ## Install manually
 
