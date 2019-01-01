@@ -4,24 +4,29 @@ Jquery plugin that displays date and time in whatever format you wish with a sim
 
 ## Example usage
 
+### Basic usage
+
 ```js
  jQuery(function() {
   $('#clocker').clocker();
  });
 ```
 
-## Options
-
-You can easily change clocker's behaviour by changing a few options. All of them are detailed below.
+### With arguments
 
 ```js
  jQuery(function() {
   $('#clocker').clocker({
     "refresh_rate": 500,
-    "output_format": "%h:%i:%s | %m/%d/%y"
+    "output_format": "%h:%i:%s | %m/%d/%y",
+    "months_terms": ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November','December']
   });
  });
 ```
+
+## Options
+
+You can easily change clocker's behaviour by changing a few options. All of them are detailed below.
 
 ### refresh_rate
 
