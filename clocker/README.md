@@ -55,12 +55,12 @@ This option helps to define precisely how the date and time will be displayed. I
 
 Keyword | Format | Description
 ------------ | ------------- | -------------
-**%y** | 0000 | year digits
-**%m** | 01-12 | month digits
-**%d** | 01-31 | day digits
-**%h** | 01-23 | hour digits
-**%i** | 01-59 | minute digits
-**%s** | 01-59 | second digits
+**%y** | 2010 | Years digits
+**%m** | 01-12 | Months from 01 to 12
+**%d** | 01-31 | Days from 01 to 31
+**%h** | 01-23 | Hours from 01 to 23
+**%i** | 01-59 | Minutes from 01 to 59
+**%s** | 01-59 | Seconds from 01 to 59
 
 ### months_terms
 
