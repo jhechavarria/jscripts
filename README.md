@@ -8,8 +8,8 @@ Sample set of javascript codes
 
 **jQuery scripts**
 
-  - [clocker.js](https://github.com/jhechavarria/jscripts/tree/master/clocker)
   - [ager.js](https://github.com/jhechavarria/jscripts/tree/master/ager)
+  - [clocker.js](https://github.com/jhechavarria/jscripts/tree/master/clocker)
 
 **Nodejs scripts/modules**
 
